@@ -2,7 +2,7 @@
 
 I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=TIPPU17&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -15,8 +15,19 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 - [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
 
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## SOCIAL MEDIA
+<h3>Connect with Me!</h3>
+<p align="center">
+<br/>
+<a href="https://www.linkedin.com/in/tippu-sai-18581a323/">
+  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/57393186/151711211-5c29f763-d28a-4b7a-a741-1f8c0dd2fe0e.png" />
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/tippu_1706/">
+  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711168-f5cc60d2-c486-46f1-bc23-c740b719d80d.png" />
+</a>&nbsp;&nbsp;
+</p>
+
+
 
 ## 🌱 Currently Exploring
 
